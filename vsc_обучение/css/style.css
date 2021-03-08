@@ -1,0 +1,9 @@
+body {
+  background: #8ed1e2;
+}
+
+.hi {
+  font-size: 40px;
+  color: blueviolet;
+  border: 3px solid #da289f;
+}
